@@ -1,0 +1,4 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=60531:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/samirabiezzi/IdeaProjects/Cyclones/out/production/Cyclones Main
+Hurricane Gloria traveled 7292.1986200796155 kilometers.
+
+Process finished with exit code 0
